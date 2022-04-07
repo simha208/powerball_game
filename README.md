@@ -1,7 +1,17 @@
+
 # powerball_game
 
-this is class:
+• Your assignment should be a Python program ,
+Your assignment will use what we have learned so far
+(e.g. conditional statements, array, array functions and array). 
+, You can also use the internet as an additional source to help with your code.
+For example, you may need some useful array functions, for example. 
+Mix () if you use arrays to perform this task. 
+However, there are many correct ways to write a plan. All roads lead to Rome. 
 
+
+
+this is class:
 class Conditions(logic.Logic)
  |  Method resolution order:
  |      Conditions
